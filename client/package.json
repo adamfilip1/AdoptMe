@@ -1,0 +1,9 @@
+{
+  "name": "adopce-frontend",
+  "version": "1.0.0",
+  "description": "Frontend pro správu adopce zvířat",
+  "type": "module",
+  "scripts": {
+    "start": "npx serve public"
+  }
+}
